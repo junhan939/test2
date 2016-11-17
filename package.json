@@ -15,8 +15,8 @@
       "mocha": "*"
   }
   , "scripts": {
-      "test": "make test"
-    , "start": "make"
+      "test": "npm test"
+    , "start": "npm"
   }
   , "engines": { 
     "node": "*"
